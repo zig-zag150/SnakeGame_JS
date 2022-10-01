@@ -25,5 +25,9 @@
 }
 
 .food{
+    background-color:yellow;
+}
+
+.snake{
     background-color: purple;
 }
